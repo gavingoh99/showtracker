@@ -1,13 +1,60 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown {
+  transform-origin: top left;
+  transition-property: transform;
+  transition-duration: 300ms;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.none {
+  display: none;
+}
+
+.shrink {
+  transform: scale(0);
+}
+
+.grow {
+  transform: scale(1);
+}
+
+.arrowRight {
+  transition-property: transform;
+  transition-duration: 300ms;
+}
+
+.startLeft {
+  transform: translateX(-100%);
+}
+
+.moveRight {
+  transform: translateX(0);
+}
+
+.rotateClockwise {
+  transform: rotate(90deg);
+}
+
+.searchBar {
+  transform-origin: right;
+  transition-property: transform;
+  transition-duration: 300ms;
+}
+
+.searchBar:focus {
+  outline: none;
+}
+
+.collapsedSearchBar {
+  transform: scaleX(0);
+}
+
+.expandedSearchBar {
+  transform: scaleX(1);
+}
+
+.concealCloseBtn {
+  visibility: hidden;
 }

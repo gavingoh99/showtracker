@@ -1,0 +1,112 @@
+[
+  {
+    "show": {
+      "title": "House of the Dragon",
+      "year": 2022,
+      "ids": {
+        "trakt": 154574,
+        "tmdb": 94997
+      },
+      "img": "https://image.tmdb.org/t/p/original/uoSXS3xVzjGRknerB7uyU98StC5.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2022,
+      "ids": {
+        "trakt": 150900,
+        "tmdb": 84773
+      },
+      "img": "https://image.tmdb.org/t/p/original/uVukvj5r9jEMva78IfaGWMNwGe.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "She-Hulk: Attorney at Law",
+      "year": 2022,
+      "ids": {
+        "trakt": 151854,
+        "tmdb": 92783
+      },
+      "img": "https://image.tmdb.org/t/p/original/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Andor",
+      "year": 2022,
+      "ids": {
+        "trakt": 170649,
+        "tmdb": 83867
+      },
+      "img": "https://image.tmdb.org/t/p/original/b6Pj3f6dYxQfnSE8yLZRo1971HL.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Sandman",
+      "year": 2022,
+      "ids": {
+        "trakt": 149786,
+        "tmdb": 90802
+      },
+      "img": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "I Am Groot",
+      "year": 2022,
+      "ids": {
+        "trakt": 170563,
+        "tmdb": 114469
+      },
+      "img": "https://image.tmdb.org/t/p/original/rIOD8quR4YIgcjwJnTjp6zG6HGP.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Willow",
+      "year": 2022,
+      "ids": {
+        "trakt": 170270,
+        "tmdb": 111837
+      },
+      "img": "https://image.tmdb.org/t/p/original/wx50OY8waGNFlVIQWtJAYgHzW2B.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Tales of the Walking Dead",
+      "year": 2022,
+      "ids": {
+        "trakt": 189651,
+        "tmdb": 136248
+      },
+      "img": "https://image.tmdb.org/t/p/original/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Paper Girls",
+      "year": 2022,
+      "ids": {
+        "trakt": 164810,
+        "tmdb": 106431
+      },
+      "img": "https://image.tmdb.org/t/p/original/tfEG67ia9AsG7J8aiwfJgGFi9et.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Pretty Little Liars: Original Sin",
+      "year": 2022,
+      "ids": {
+        "trakt": 167450,
+        "tmdb": 110531
+      },
+      "img": "https://image.tmdb.org/t/p/original/eiRLR7HN0hdyYsahegb0FP1Yra0.jpg"
+    }
+  }
+]

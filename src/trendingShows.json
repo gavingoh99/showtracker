@@ -1,0 +1,112 @@
+[
+  {
+    "show": {
+      "title": "Better Call Saul",
+      "year": 2015,
+      "ids": {
+        "trakt": 59660,
+        "tmdb": 60059
+      },
+      "img": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Westworld",
+      "year": 2016,
+      "ids": {
+        "trakt": 99718,
+        "tmdb": 63247
+      },
+      "img": "https://image.tmdb.org/t/p/original/uRojJ77wDQdzzVvP1VDjnvCWiDb.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Stranger Things",
+      "year": 2016,
+      "ids": {
+        "trakt": 104439,
+        "tmdb": 66732
+      },
+      "img": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Boys",
+      "year": 2019,
+      "ids": {
+        "trakt": 139960,
+        "tmdb": 76479
+      },
+      "img": "https://image.tmdb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Orville",
+      "year": 2017,
+      "ids": {
+        "trakt": 119017,
+        "tmdb": 71738
+      },
+      "img": "https://image.tmdb.org/t/p/original/k6vYqk0jgrPFHwgl767MyT0fTHt.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Only Murders in the Building",
+      "year": 2021,
+      "ids": {
+        "trakt": 165314,
+        "tmdb": 107113
+      },
+      "img": "https://image.tmdb.org/t/p/original/wvdiTDDBxI0lix4Wbc2qePfgkA2.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Old Man",
+      "year": 2022,
+      "ids": {
+        "trakt": 150805,
+        "tmdb": 111800
+      },
+      "img": "https://image.tmdb.org/t/p/original/yoFgLaM1GCRMouDwYnGydISgFlB.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Big Bang Theory",
+      "year": 2007,
+      "ids": {
+        "trakt": 1409,
+        "tmdb": 1418
+      },
+      "img": "https://image.tmdb.org/t/p/original/x4DO7mY7usT8BwLiHTUsYT7EKbc.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "Game of Thrones",
+      "year": 2011,
+      "ids": {
+        "trakt": 1390,
+        "tmdb": 1399
+      },
+      "img": "https://image.tmdb.org/t/p/original/hRb50fOGcXic3NO6kUnL9hRXwsg.jpg"
+    }
+  },
+  {
+    "show": {
+      "title": "The Terminal List",
+      "year": 2022,
+      "ids": {
+        "trakt": 170081,
+        "tmdb": 120911
+      },
+      "img": "https://image.tmdb.org/t/p/original/yQTQL9pliY6vpRt8HkjUJrKymBb.jpg"
+    }
+  }
+]
