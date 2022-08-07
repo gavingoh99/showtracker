@@ -9,7 +9,7 @@ export default function ShowInformation() {
   const showId = urlParams[urlParams.length - 1];
   const fetchShow = async () => {
     const response = await fetch(
-      `https://api.themoviedb.org/3/tv/${showId}?api_key=c5ba87200850160b504002559ab8c750`
+      `https://api.themoviedb.org/3/tv/${showId}?api_key=${process.env.REACT_APP_TMDB_API_KEY}`
     );
     const show = await response.json();
     setShow(show);
